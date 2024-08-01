@@ -284,3 +284,27 @@ Nelze poznat osobu jenom podle jejího hlasu.
 * Unášet hráče do interiéru na port.
 * Vyžadovat po hráči, aby vám přepsal svůj majetek, poslal peníze etc...
 {% endhint %}
+
+## Spojování Nelegálních Frakcí <a href="#poznavani-osob" id="poznavani-osob"></a>
+
+{% hint style="danger" %}
+Je přísně <mark style="color:red;">zakázáno</mark>, spojování nelegálních frakcí za účelem zníčení jiné. V pořádku jsou spojenectví ve stylu obchodů a výměny informací, ale příkladem zakázaného spojování je:
+
+Společná akce
+
+Spojování se dá povolit stylem ticketu kde bude vypsáno pádný ic důvod.
+{% endhint %}
+
+## Inventář <a href="#poznavani-osob" id="poznavani-osob"></a>
+
+{% hint style="info" %}
+Co má hráč u sebe, má u sebe. Nelze erpit, že zbraň odkládáte do kastlíku, a přitom si ji nechat v inventáři. Musíte ji tam fyzicky odložit. U tohoto pravidla má nadřazenost /me (Funguje pouze u LSPD a LSSD → /me zabavuje osobě veškeré věci, které má u sebe).
+
+V této situaci, pokud máte v inventáři například mobilní telefon, je Vám odebrán a vy ho nesmíte použít !
+{% endhint %}
+
+{% hint style="danger" %}
+Klíče od domů a podniku je ZAKÁZANÉ brát !
+
+Je zakázáno okrádat PDčka, i s pádným důvodem. Dá se povolit v ticketu v rámci nějaké rp akce.
+{% endhint %}
