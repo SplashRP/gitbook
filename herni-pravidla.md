@@ -270,7 +270,7 @@ Osobu můžete poznat pouze po dlouhé RP akci nebo po více menších.
 Nelze poznat osobu jenom podle jejího hlasu.
 {% endhint %}
 
-## Poznávání osob <a href="#poznavani-osob" id="poznavani-osob"></a>
+## Pravidlo únosů <a href="#poznavani-osob" id="poznavani-osob"></a>
 
 {% hint style="info" %}
 * Maximální doba únosu je 120 minut. _( je možno prodloužit po domluvě v LOOC, nebo v po domluvě v reportu / ticketu )_
@@ -293,6 +293,26 @@ Je přísně <mark style="color:red;">zakázáno</mark>, spojování nelegální
 Společná akce
 
 Spojování se dá povolit stylem ticketu kde bude vypsáno pádný ic důvod.
+{% endhint %}
+
+## Pravidlo Interieru <a href="#poznavani-osob" id="poznavani-osob"></a>
+
+{% hint style="info" %}
+Všechny interiéry na serveru jsou zamčené, pokud se nejedná o budovy veřejné (PD, EMS, GOV, PDM,.....)
+
+Je zakázáno RPit v interiéru frakce do které nepatříte, pokud vám ji zpřístupní člen dané frakce, můžete do interiéru vstoupit.
+
+Pokud máte RP důvod na vtrhnutí do frakční budovy, tak potřebujete schválení Admin Teamem
+
+RP akce, které začnou mimo interiér a přenesou se do interiéru, pokračují normálně bez ohledu, zda se nacházíte ve frakčním sídle a tak dále!
+
+Je přísně zakázáno unášet lidi do interiérů na port. (netýká se interiérů s tajnými místnostmi)
+{% endhint %}
+
+## Pravidlo Pozemků <a href="#poznavani-osob" id="poznavani-osob"></a>
+
+{% hint style="danger" %}
+Pokud vlezete na pozemek nelegální frakce do které nepatříte a dostanete PK, leader frakce pozemku na kterém se nacházíte vám může vypsat situační ck.
 {% endhint %}
 
 ## Inventář <a href="#poznavani-osob" id="poznavani-osob"></a>
