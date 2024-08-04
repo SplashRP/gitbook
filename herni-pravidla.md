@@ -328,3 +328,11 @@ Klíče od domů a podniku je ZAKÁZANÉ brát !
 
 Je zakázáno okrádat PDčka, i s pádným důvodem. Dá se povolit v ticketu v rámci nějaké rp akce.
 {% endhint %}
+
+## Frakční pravidla <a href="#poznavani-osob" id="poznavani-osob"></a>
+
+{% hint style="danger" %}
+Pokud vaše postava dostane CK, nesmíte se 1 měsíc (reálného času) do stejné frakce vrátit za jinou postavu!
+
+Pokud jste dostali CK v nelegální frakci, můžete do jiné přejít po 2 týdnech!
+{% endhint %}
