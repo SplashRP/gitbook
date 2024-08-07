@@ -228,6 +228,30 @@ Máte však možnost toto pravidlo provést v rámci RP.
 Avšak výpadek paměti se nesmí rpit k vyhnutí se rpčku.
 {% endhint %}
 
+## **CK (Character Kill)**
+
+{% hint style="warning" %}
+Zabití postavy na stálo. Za tuhle postavu už není možné dále hrát. Každé CK musí předem schválit Admin team a hráč si o něj žádá v Admin ticketu.
+
+Do ticketu je nutné zapsat následující informace:
+
+OOC jméno hráče
+
+IC jméno postavy
+
+Pádné důvody pro udělení CK
+
+Po udělení CK je nutno zaslat do ticketu fotografii místa, kde jste tělo zanechali.
+
+Po udělení CK je nutno do LOOC vypsat jméno postavy, na které bylo CK uděleno (Příklad: CK - Chuan Rodriguez)
+{% endhint %}
+
+## **Self CK**
+
+{% hint style="danger" %}
+SelfCK musí mít odůvodnění v IC a ne OOC. Důvody IC je hráč povinen oznámit v ticketě, kde oznámí SelfCK své postavy. Tento ticket musí obsahovat následující informace:
+{% endhint %}
+
 ## Combat Comeback <a href="#combat-comeback" id="combat-comeback"></a>
 
 {% hint style="danger" %}
