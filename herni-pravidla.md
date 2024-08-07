@@ -216,6 +216,33 @@ PŘÍKLAD: Zvedání předmětů, které v běžném životě nelze zvednout vla
 PŘÍKLAD: Provádění nereálných schopností - "superhrdina"
 {% endhint %}
 
+## **GrossRP**
+
+{% hint style="info" %}
+* Jde se o takzvaný nechutný roleplay, ať slovní nebo fyzický.&#x20;
+
+**Například**:
+
+1. Rasismus
+2. Znásilnění
+3. Kanibalismus
+4. Pedofilie
+5. Sexuální obtěžování
+6. Mučení
+7. **RASISMUS** - Je přísně zakázáno používat slovo na **N** a jemu podobné slova.
+
+S grossem musí souhlasit všechny osoby účastnící se situace, pokud nesouhlasí všechny osoby nesmí být gross konán. Je zakázáno uřezávání končetiny pokud tedy nejde o CK. Pokud osoba gross povolí může také kdykoliv od povolení ustoupit.                     &#x20;
+
+Výjimka je uříznutí prstu, ucha, nebo jiné části, která se dá bez trvalých následků přišít zpět. Podmínkou ale je, že odříznutá neznehodnocená část musí zůstat u těla, aby ji poté mohli přišít na EMS (např. odříznutý prst dáte do sáčku s ledem a necháte ho u těla).                                                                                                                                                                                                                                                        &#x20;
+
+**NELEGÁLNÍ FRAKCE MAJÍ GROSS PŘI ÚNOSU AUTOMATICKY SCHVÁLENÝ, KDYKOLI HO ALE MŮŽE UNESENÝ V PRŮBĚHU ZASTAVIT.   (** Pokud žádá hráč a schvaluje gross ve své nelegální skupině, nemůže odmítnout gross od jiné skupiny vůči svojí postavě**)**\
+
+
+**N-word je povolen pouze v Downtownu a pouze členům gangů!**&#x20;
+
+* Povolen je jen tento následující výraz: "Nigga.
+{% endhint %}
+
 ## **PK (Player Kill)**
 
 {% hint style="info" %}
