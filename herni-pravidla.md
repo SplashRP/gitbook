@@ -250,6 +250,12 @@ Po udělení CK je nutno do LOOC vypsat jméno postavy, na které bylo CK uděle
 
 {% hint style="danger" %}
 SelfCK musí mít odůvodnění v IC a ne OOC. Důvody IC je hráč povinen oznámit v ticketě, kde oznámí SelfCK své postavy. Tento ticket musí obsahovat následující informace:
+
+
+
+1\) Způsob udělení SelfCK
+
+2\) IC důvod
 {% endhint %}
 
 ## Combat Comeback <a href="#combat-comeback" id="combat-comeback"></a>
