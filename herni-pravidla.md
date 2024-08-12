@@ -194,8 +194,7 @@ Hráč se může odpojit po uplynutí 30 min. po RP akci (Přestřelky, únosy, 
 {% hint style="info" %}
 Na našem serveru nevyužíváme tzv. Safezone, ale passive RP.
 
-Je důležité, aby hráči brali ohled na to, že ve městě nejsou sami, ale všude okolo se nacházejí/pohybují „místní“ a kdokoliv Vás při různých situacích může vidět.\
-
+Je důležité, aby hráči brali ohled na to, že ve městě nejsou sami, ale všude okolo se nacházejí/pohybují „místní“ a kdokoliv Vás při různých situacích může vidět.
 
 Hráč je povinen respektovat místa, kde by se místní normálně vyskytovali (PD, EMS, Náměstí, Veřejná prostranství, jako jsou parky, pláže, různé zábavní parky)
 
@@ -392,4 +391,32 @@ Je zakázáno okrádat PDčka, i s pádným důvodem. Dá se povolit v ticketu v
 Pokud vaše postava dostane CK, nesmíte se 1 měsíc (reálného času) do stejné frakce vrátit za jinou postavu!
 
 Pokud jste dostali CK v nelegální frakci, můžete do jiné přejít po 2 týdnech!
+{% endhint %}
+
+## Nelegální pravidla <a href="#poznavani-osob" id="poznavani-osob"></a>
+
+{% hint style="info" %}
+1. Je zakázáno erpit víc než jednu nelegální skupinu. To znamená že <mark style="color:red;">nemůžete</mark> mít jednu postavu v cartelu a jednu v mafii
+2. Je zakázáno erpit nelegální postavu a druhou postavu mít výše postavenou postavou u pd. To znamená detektiv atd neexistuje aby si byl součástí vyšetřování jiných nelegálek ( výjimky skrze tickety )
+3. Korupční RP VŠECH státních složek musí být schváleno skrz TICKET toto porušení se bude přísně trestat
+4. Pointless Shooting: je přísně zakázáno vše řešit střílením! Pokud tě zastaví pd za rychlost nebo za jízdu na červenou to opravdu není pádný důvod k střelbě!
+5. Passivni RP jak bývá zvykem chcete po státních složkách erpit passiv to samé čekáme i od nelegálních frakci nebudete nosit dlouhé zbraně na veřejných místech nebo "kempit" na obydlených domech atd pokud chcete vždy přijde passivni call na 911 pak není problém využijete opuštěné místa a nebo noční hodiny ( in game času )
+6. Únosy: vždy je třeba erpit vše potřebné tak jak má být! Nestačí napsat jen /carry musí přijít i /me o zvedání a dávání do vozidla atd. Dávejte si pozor jaké auta na únosy používáte a podobně!
+7. Frakční discordy: je zakazano erpit že se chceš dostávat nebo nekoho nutit k přístupu na cizi frakční discord!
+{% endhint %}
+
+## Passivní EMS RP <a href="#poznavani-osob" id="poznavani-osob"></a>
+
+{% hint style="info" %}
+Při jakémkoliv střelném zranění si povolen i po ošetření navštívit EMS! Taktéž si povinen po portu na EMS použít 911 a zavolat hlídku kvůli střelné mu zranění! Útěky z EMS budou přísně trestaný.
+
+Pokud si byl postřelen a byl si během rp akce ošetřen kvůli výslechu atd stejně po rp akci MUSÍŠ navštívit EMS taktéž!
+{% endhint %}
+
+## Pravidla Létání <a href="#poznavani-osob" id="poznavani-osob"></a>
+
+{% hint style="info" %}
+Je přísně zakázáno lítat ve městě mezi budovama a nebo klesat na nereálné výšky a lítat mezi stromy nebo vysokým vedením!
+
+Je PŘÍSNĚ zakázáno jakýmkoliv způsobem střílet z helikoptér jak státní složky tak nelegální frakce. Helikoptéra slouží jen jako pozorovací prostředek nebo přepravní neslouží k PVP! Pokud někdo po helikoptéře začne střílet dlouhou zbraní helikoptéra by se měla stáhnout a ne čekat až spadne!
 {% endhint %}
