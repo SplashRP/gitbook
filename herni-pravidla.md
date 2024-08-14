@@ -382,6 +382,8 @@ V této situaci, pokud máte v inventáři například mobilní telefon, je Vám
 {% hint style="danger" %}
 Klíče od domů a podniku je ZAKÁZANÉ brát !
 
+Je taktéž zakázáno erpit popisek klíčů od domů a podniků.
+
 Je zakázáno okrádat PDčka, i s pádným důvodem. Dá se povolit v ticketu v rámci nějaké rp akce.
 {% endhint %}
 
