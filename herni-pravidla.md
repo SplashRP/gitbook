@@ -38,11 +38,20 @@ _L-OOC: Povolujete Gross?_ nebo _L-OOC: Schvaluješ CK?_
 ## **Metagaming**
 
 {% hint style="warning" %}
-Zneužití informací, které získáme mimo herní svět (OOC), přičemž tyto informace následně využijeme za postavu v herním světě (IC).
+Metagaming je získávání informací jinak než herním způsobem.Je přísně zakázáno nabádat ostatní hráče k Metagamingu!\
 
-Je zakázáno využívat informace, které vaše postava neví a nemá se k nim jak dostat (např. využití informací po CK).
 
-Je zakázáno přenášet informace mezi postavami (v rámci multicharu), jedná se o porušení pravidel, které je trestáno banem - metagaming!
+Příklady mohou být následující:\
+\
+Sledování oblíbeného streamera a neustálé jeho pronásledování in game.\
+Sdílení informací na Discordu a následné využití těchto informací ve hře.\
+\
+
+
+Nabádaní k Metagamingu
+
+1. Posílání nevyžádaných IC informací OOC
+2. Vyžadování IC informací OOC
 {% endhint %}
 
 ## **Mixing**
